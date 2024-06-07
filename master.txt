@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Master
 Ay Diosito que si funcione :)
+=======
+Master
+>>>>>>> master
